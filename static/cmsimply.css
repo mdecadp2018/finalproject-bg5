@@ -2,8 +2,13 @@
   position: relative;
 }
 header{
-  background: #ccc;
-  padding: 20px;
+  background-image: #url("https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/8601a18b87d6277f705d19c022381f30e824fcff.jpg"),
+							   #url("https://media1.tenor.com/images/edb2c458ad8a192eae5229e747221271/tenor.gif?itemid=11204899"),
+							   #inear-gradient(to left, rgba(220, 20, 60, 1),  rgba(255, 255, 0, 0.6));
+  padding: 40px;
+  #background-position: top 0px right 0px, top -60px right 500px;
+  #background-repeat:no-repeat, no-repeat;
+  #background-attachment : fixed;
 }
 confmenu
 {
@@ -27,8 +32,8 @@ confmenu li a
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
-	background: #333;
+	color: #16dcf6;
+	background: #b0171f;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -201,6 +206,14 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image: url("https://lh4.googleusercontent.com/-ahpnTP-EpAk/AAAAAAAAAAI/AAAAAAAAAZE/Ibsbyp-sIco/photo.jpg"),
+                               url("https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/8601a18b87d6277f705d19c022381f30e824fcff.jpg"),
+							   url("http://www.playcast.ru/uploads/2013/12/05/6753979.gif"),
+                               linear-gradient(to left, rgba(30, 75, 115, 1),  rgba(255, 255, 255, 0));
   margin-bottom: 120px;
+  #background-size:100%;
+  background-position: top 0px right 0px ,top 100% right 0%;
+  background-repeat: no-repeat ,no-repeat ,repeat ;
+  background-attachment :fixed, fixed, scroll;
 }
 
