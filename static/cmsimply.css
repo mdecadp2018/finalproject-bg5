@@ -206,14 +206,12 @@ background-color: white;
 width: 195px;
 }
 body {
-  background-image: url("https://lh4.googleusercontent.com/-ahpnTP-EpAk/AAAAAAAAAAI/AAAAAAAAAZE/Ibsbyp-sIco/photo.jpg"),
-                               url("https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/8601a18b87d6277f705d19c022381f30e824fcff.jpg"),
-							   url("http://www.playcast.ru/uploads/2013/12/05/6753979.gif"),
+  background-image: url("http://www.playcast.ru/uploads/2013/12/05/6753979.gif"),
                                linear-gradient(to left, rgba(30, 75, 115, 1),  rgba(255, 255, 255, 0));
   margin-bottom: 120px;
   #background-size:100%;
-  background-position: top 0px right 0px ,top 100% right 0%;
-  background-repeat: no-repeat ,no-repeat ,repeat ;
-  background-attachment :fixed, fixed, scroll;
+  #background-position: top 0px right 0px ,top 100% right 0%;
+  background-repeat: repeat ;
+  background-attachment :scroll;
 }
 
