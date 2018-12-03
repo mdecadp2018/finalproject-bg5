@@ -21,20 +21,42 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>bg5封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>bg5封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>bg5封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181203101543.1" a="E"><vh>w10</vh>
+<v t="leo.20181203101543.2" a="E"><vh>w10 發生的事</vh>
+<v t="leo.20181203101543.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181203101543.4" a="E"><vh>w10 作業的成果</vh>
+<v t="leo.20181203101543.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181203101543.6" a="E"><vh>w10-3</vh>
+<v t="leo.20181203101543.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181203102656.1"><vh>w11</vh>
+<v t="leo.20181203102656.2"><vh>w11 發生的事</vh>
+<v t="leo.20181203102656.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181203102656.4"><vh>w11 作業的成果</vh>
+<v t="leo.20181203102656.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181203102656.6"><vh>w11-3</vh>
+<v t="leo.20181203102656.7"><vh>2</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181203102030.1"><vh>快捷鍵</vh>
+<v t="leo.20181203102030.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -139,107 +161,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;p&gt;&lt;font size="5"&gt;[2018 Fall Finalproject -bg5](./../blog/index.html)&lt;/font&gt;&lt;/p&gt;
 
 
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-&lt;section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-# bg5-w10
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-## 2
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-## 3
-
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-&lt;/section&gt;
-
-&lt;section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-# 多頁格式
-## 1
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-## 2
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-## 3
-
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-&lt;/section&gt;
-
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-# 單頁格式
-
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
+ </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -411,5 +333,108 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181203101543.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181203101543.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203101543.3"># w10 事件
+11/12
+
+這周因為剛期中考完，除了分組外發生什麼特別的事.......還有聽老師講人生大道理，不過忘得差不多了，明明才不到一個月
+</t>
+<t tx="leo.20181203101543.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203101543.5"># w10 成果
+修改分組網站的名稱，就這樣</t>
+<t tx="leo.20181203101543.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203101543.7"># 補充
+這禮拜校慶，沒到要被扣操行分數，媽的發科</t>
+<t tx="leo.20181203102030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203102030.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20181203102656.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181203102656.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203102656.3"># w11 事件</t>
+<t tx="leo.20181203102656.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203102656.5"># 1</t>
+<t tx="leo.20181203102656.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203102656.7"># 2</t>
 </tnodes>
 </leo_file>
