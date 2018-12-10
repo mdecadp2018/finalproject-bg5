@@ -28,22 +28,58 @@
 <v t="leo.20181203101543.2" a="E"><vh>w10 發生的事</vh>
 <v t="leo.20181203101543.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203101543.4" a="E"><vh>w10 作業的成果</vh>
+<v t="leo.20181203101543.4"><vh>w10 作業的成果</vh>
 <v t="leo.20181203101543.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181203101543.6" a="E"><vh>w10-3</vh>
+<v t="leo.20181203101543.6"><vh>w10-3</vh>
 <v t="leo.20181203101543.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203102656.1"><vh>w11</vh>
-<v t="leo.20181203102656.2"><vh>w11 發生的事</vh>
+<v t="leo.20181203102656.1" a="E"><vh>w11</vh>
+<v t="leo.20181203102656.2" a="E"><vh>w11 發生的事-1</vh>
 <v t="leo.20181203102656.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203102656.4"><vh>w11 作業的成果</vh>
+<v t="leo.20181210103620.1"><vh>w11 發生的事-2</vh>
+<v t="leo.20181210103620.2"><vh>first</vh></v>
+</v>
+<v t="leo.20181203102656.4" a="E"><vh>w11 作業的成果</vh>
 <v t="leo.20181203102656.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181203102656.6"><vh>w11-3</vh>
+<v t="leo.20181203102656.6" a="E"><vh>w11-3</vh>
 <v t="leo.20181203102656.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181203105101.1"><vh>w12</vh>
+<v t="leo.20181203105101.2" a="E"><vh>w12 發生的事</vh>
+<v t="leo.20181203105101.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181203105101.4" a="E"><vh>w12 作業的成果</vh>
+<v t="leo.20181203105101.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181203105101.6" a="E"><vh>w12-3</vh>
+<v t="leo.20181203105101.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181203105102.1"><vh>w13</vh>
+<v t="leo.20181203105102.2" a="E"><vh>w13 發生的事</vh>
+<v t="leo.20181203105102.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181203105102.4" a="E"><vh>w13 作業的成果</vh>
+<v t="leo.20181203105102.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181203105102.6" a="E"><vh>w13-3</vh>
+<v t="leo.20181203105102.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181210094359.1"><vh>w14</vh>
+<v t="leo.20181210094359.2" a="E"><vh>w14 發生的事</vh>
+<v t="leo.20181210094359.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181210094359.4" a="E"><vh>w14 作業的成果</vh>
+<v t="leo.20181210094359.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181210094359.6" a="E"><vh>w14-3</vh>
+<v t="leo.20181210094359.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -161,7 +197,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;p&gt;&lt;font size="5"&gt;[2018 Fall Finalproject -bg5](./../blog/index.html)&lt;/font&gt;&lt;/p&gt;
 
 
- </t>
+ 
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -349,10 +387,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203101543.3"># w10 事件
+<t tx="leo.20181203101543.3"># w10
 11/12
 
-這周因為剛期中考完，除了分組外發生什麼特別的事.......還有聽老師講人生大道理，不過忘得差不多了，明明才不到一個月
+&lt;p&gt;
+這周因為剛期中考完，除了分組和[期中自評成績](./../content/Introduction.html)外發生什麼特別的事
+&lt;/p&gt;
+
 </t>
 <t tx="leo.20181203101543.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -365,8 +406,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203101543.5"># w10 成果
-修改分組網站的名稱，就這樣</t>
+<t tx="leo.20181203101543.5">## w10 work
+
+修改分組網站的名稱，就這樣
+
+
+&lt;img src="https://i.imgur.com/miE1h6D.jpg" class="w3-round" alt="Norway"&gt;
+</t>
 <t tx="leo.20181203101543.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -376,8 +422,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203101543.7"># 補充
-這禮拜校慶，沒到要被扣操行分數，媽的發科</t>
+<t tx="leo.20181203101543.7">## supplement
+
+這禮拜校慶，感覺人很少、運動項目報名情形也不太熱絡</t>
 <t tx="leo.20181203102030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -413,7 +460,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203102656.3"># w11 事件</t>
+<t tx="leo.20181203102656.3"># w11
+
+說明一些題目的範例以及有關把onshape的零件丟到V-rep 進行動態模擬之類的操作
+
+&lt;p&gt;
+參考
+[w11 issuse](https://github.com/mdecourse/cadp2018/issues/17)
+&lt;p\&gt;</t>
 <t tx="leo.20181203102656.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -425,7 +479,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203102656.5"># 1</t>
+<t tx="leo.20181203102656.5">## w11 work
+
+</t>
 <t tx="leo.20181203102656.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -435,6 +491,157 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203102656.7"># 2</t>
+<t tx="leo.20181203102656.7">## supplement
+</t>
+<t tx="leo.20181203105101.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181203105101.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105101.3"># w12 
+
+</t>
+<t tx="leo.20181203105101.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105101.5">## w12 work
+
+</t>
+<t tx="leo.20181203105101.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203105101.7">## supplement
+
+</t>
+<t tx="leo.20181203105102.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181203105102.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105102.3"># w13 
+
+</t>
+<t tx="leo.20181203105102.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105102.5">## w13 work
+
+
+</t>
+<t tx="leo.20181203105102.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203105102.7">## supplement
+
+</t>
+<t tx="leo.20181210094359.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181210094359.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181210094359.3"># w14
+
+</t>
+<t tx="leo.20181210094359.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181210094359.5">## w14 work
+
+
+</t>
+<t tx="leo.20181210094359.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181210094359.7">## supplement
+
+</t>
+<t tx="leo.20181210103620.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181210103620.2">v-rep模擬影片
+&lt;iframe width="900" height="550" src="https://www.youtube.com/embed/Ui_8E4fIzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
