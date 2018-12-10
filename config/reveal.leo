@@ -35,7 +35,7 @@
 <v t="leo.20181203101543.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203102656.1"><vh>w11</vh>
+<v t="leo.20181203102656.1" a="E"><vh>w11</vh>
 <v t="leo.20181203102656.2"><vh>w11 發生的事</vh>
 <v t="leo.20181203102656.3"><vh>first</vh></v>
 </v>
@@ -44,6 +44,28 @@
 </v>
 <v t="leo.20181203102656.6"><vh>w11-3</vh>
 <v t="leo.20181203102656.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181203105101.1"><vh>w12</vh>
+<v t="leo.20181203105101.2"><vh>w12 發生的事</vh>
+<v t="leo.20181203105101.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181203105101.4"><vh>w12 作業的成果</vh>
+<v t="leo.20181203105101.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181203105101.6"><vh>w12-3</vh>
+<v t="leo.20181203105101.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181203105102.1"><vh>w13</vh>
+<v t="leo.20181203105102.2"><vh>w13 發生的事</vh>
+<v t="leo.20181203105102.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181203105102.4"><vh>w13 作業的成果</vh>
+<v t="leo.20181203105102.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181203105102.6"><vh>w13-3</vh>
+<v t="leo.20181203105102.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -161,7 +183,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;p&gt;&lt;font size="5"&gt;[2018 Fall Finalproject -bg5](./../blog/index.html)&lt;/font&gt;&lt;/p&gt;
 
 
- </t>
+ 
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -349,10 +373,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203101543.3"># w10 事件
+<t tx="leo.20181203101543.3"># w10
 11/12
 
-這周因為剛期中考完，除了分組外發生什麼特別的事.......還有聽老師講人生大道理，不過忘得差不多了，明明才不到一個月
+這周因為剛期中考完，除了分組外發生什麼特別的事
 </t>
 <t tx="leo.20181203101543.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -366,7 +390,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181203101543.5"># w10 成果
-修改分組網站的名稱，就這樣</t>
+修改分組網站的名稱，就這樣
+
+</t>
 <t tx="leo.20181203101543.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -377,7 +403,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181203101543.7"># 補充
-這禮拜校慶，沒到要被扣操行分數，媽的發科</t>
+這禮拜校慶，沒到要被扣操行分數，媽的發科
+
+</t>
 <t tx="leo.20181203102030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -413,7 +441,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203102656.3"># w11 事件</t>
+<t tx="leo.20181203102656.3"># w11 事件
+
+</t>
 <t tx="leo.20181203102656.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -425,7 +455,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203102656.5"># 1</t>
+<t tx="leo.20181203102656.5"># w11 成果
+
+</t>
 <t tx="leo.20181203102656.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -435,6 +467,97 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181203102656.7"># 2</t>
+<t tx="leo.20181203102656.7"># 補充
+
+</t>
+<t tx="leo.20181203105101.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181203105101.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105101.3"># w12 事件
+
+</t>
+<t tx="leo.20181203105101.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105101.5"># w12 成果
+</t>
+<t tx="leo.20181203105101.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203105101.7"># 補充
+
+</t>
+<t tx="leo.20181203105102.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181203105102.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105102.3"># w13 事件
+
+</t>
+<t tx="leo.20181203105102.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181203105102.5"># w13 成果
+
+</t>
+<t tx="leo.20181203105102.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203105102.7"># 補充
+
+</t>
 </tnodes>
 </leo_file>
