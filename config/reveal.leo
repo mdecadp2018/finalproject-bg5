@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9"><vh>bg5封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>bg5封面投影片內容</vh></v>
 </v>
-<v t="leo.20181203101543.1" a="E"><vh>w10</vh>
+<v t="leo.20181203101543.1"><vh>w10</vh>
 <v t="leo.20181203101543.2" a="E"><vh>w10 發生的事</vh>
 <v t="leo.20181203101543.3"><vh>first</vh></v>
 </v>
@@ -35,7 +35,7 @@
 <v t="leo.20181203101543.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203102656.1" a="E"><vh>w11</vh>
+<v t="leo.20181203102656.1"><vh>w11</vh>
 <v t="leo.20181203102656.2" a="E"><vh>w11 發生的事-1</vh>
 <v t="leo.20181203102656.3"><vh>first</vh></v>
 </v>
@@ -80,6 +80,17 @@
 </v>
 <v t="leo.20181210094359.6" a="E"><vh>w14-3</vh>
 <v t="leo.20181210094359.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181217113813.1" a="E"><vh>w15</vh>
+<v t="leo.20181217113813.2" a="E"><vh>w15 發生的事</vh>
+<v t="leo.20181217113813.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181217113813.4" a="E"><vh>w15 作業的成果</vh>
+<v t="leo.20181217113813.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181217113813.6" a="E"><vh>w15-3</vh>
+<v t="leo.20181217113813.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -424,7 +435,9 @@ make.start()
 </t>
 <t tx="leo.20181203101543.7">## supplement
 
-這禮拜校慶，感覺人很少、運動項目報名情形也不太熱絡</t>
+這禮拜校慶，感覺人很少、運動項目報名情形也不太熱絡
+
+</t>
 <t tx="leo.20181203102030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -467,7 +480,9 @@ make.start()
 &lt;p&gt;
 參考
 [w11 issuse](https://github.com/mdecourse/cadp2018/issues/17)
-&lt;p\&gt;</t>
+&lt;p\&gt;
+
+</t>
 <t tx="leo.20181203102656.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -642,6 +657,54 @@ make.start()
 						
 </t>
 <t tx="leo.20181210103620.2">v-rep模擬影片
-&lt;iframe width="900" height="550" src="https://www.youtube.com/embed/Ui_8E4fIzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="900" height="550" src="https://www.youtube.com/embed/Ui_8E4fIzXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181217113813.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181217113813.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181217113813.3"># w15
+
+</t>
+<t tx="leo.20181217113813.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181217113813.5">## w15 work
+
+
+</t>
+<t tx="leo.20181217113813.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181217113813.7">## supplement
+
+</t>
 </tnodes>
 </leo_file>
