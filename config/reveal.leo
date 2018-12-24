@@ -35,15 +35,18 @@
 <v t="leo.20181203101543.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203102656.1"><vh>w11</vh>
+<v t="leo.20181203102656.1" a="E"><vh>w11</vh>
 <v t="leo.20181203102656.2" a="E"><vh>w11 發生的事-1</vh>
 <v t="leo.20181203102656.3"><vh>first</vh></v>
 </v>
 <v t="leo.20181210103620.1"><vh>w11 發生的事-2</vh>
 <v t="leo.20181210103620.2"><vh>first</vh></v>
 </v>
-<v t="leo.20181203102656.4" a="E"><vh>w11 作業的成果</vh>
+<v t="leo.20181203102656.4"><vh>w11 作業的成果-1</vh>
 <v t="leo.20181203102656.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181217120053.1" a="E"><vh>w11 作業的成果-2</vh>
+<v t="leo.20181217120053.2"><vh>1</vh></v>
 </v>
 <v t="leo.20181203102656.6" a="E"><vh>w11-3</vh>
 <v t="leo.20181203102656.7"><vh>2</vh></v>
@@ -82,7 +85,7 @@
 <v t="leo.20181210094359.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181217113813.1" a="E"><vh>w15</vh>
+<v t="leo.20181217113813.1"><vh>w15</vh>
 <v t="leo.20181217113813.2" a="E"><vh>w15 發生的事</vh>
 <v t="leo.20181217113813.3"><vh>first</vh></v>
 </v>
@@ -496,7 +499,9 @@ make.start()
 </t>
 <t tx="leo.20181203102656.5">## w11 work
 
-</t>
+專案之主題經討論後，確認為3D列印機，並開始進行工作分配
+
+分工情形還尚未明確，組員先各自逕行網站之更新，因同時推送使得上傳更新不同步，有組員的隨身系統檔案無法推送，並且網站出現不少bug</t>
 <t tx="leo.20181203102656.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -706,5 +711,19 @@ make.start()
 <t tx="leo.20181217113813.7">## supplement
 
 </t>
+<t tx="leo.20181217120053.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181217120053.2">## w11 work
+
+組員A把網誌的背景修改成不適合用來</t>
 </tnodes>
 </leo_file>
