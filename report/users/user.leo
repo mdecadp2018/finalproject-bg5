@@ -108,7 +108,9 @@ chapter_list = " ".join("./paragraph/" + i for i in [
 # 若系統並未正確轉檔, 可以將 os.system 改為 g.es 表示要使用 Leo Editor 的 global 物件中的 echo string 將指令印在 log 區
 # 然後複製指令, 然後在命令列視窗中的 markdown 目錄中執行, 就可以得到錯誤訊息
 # 或許可以再從 https://stackoverflow.com/questions/26005583/return-value-of-x-os-system 中的建議改進此一指令
-g.es(os.system("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag)))
+command = "pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag)
+print(command)
+g.es(os.system(command))
 g.es("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag))
 g.es("PDF 轉換完畢")
 g.es('-'*12)</t>
@@ -116,16 +118,16 @@ g.es('-'*12)</t>
 <t tx="ahshoe.20161120122151.1">---
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
-category_zh: '電腦輔助設計實習 bg1 期末報告'
-title_zh: '機電資鋼珠循環運動系統設計與製作'
+category_zh: '電腦輔助設計實習 bg5 期末報告'
+title_zh: '3D列印機'
 title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
 author:
-- 設計二丙 1731001 孫寶琦
-- 設計二丙 1731007 洪仁玕
-- 設計二丙 1731025 岑春煊
-- 設計二丙 1731051 瞿鴻禨
-- 設計二丙 1731061 何子淵
-advisor_zh: 'Dr. Scrum'
+- 設計二乙 40623222 蔡博淮
+- 設計二乙 40623217 楊傅博
+- 設計二乙 40623223 任明彥
+- 設計二乙 40623224 鍾偉哲
+- 設計二丙 40623231 周駿麟
+advisor_zh: '嚴家銘 教授'
 date: '2017.12.15'
 ---
 
