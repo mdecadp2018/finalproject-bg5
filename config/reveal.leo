@@ -24,19 +24,19 @@
 <v t="leo.20180827201621.9"><vh>bg5封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>bg5封面投影片內容</vh></v>
 </v>
-<v t="leo.20181203101543.1" a="E"><vh>w10</vh>
-<v t="leo.20181203101543.2" a="E"><vh>w10 發生的事</vh>
+<v t="leo.20181203101543.1" a="E"><vh>w10 11/12</vh>
+<v t="leo.20181203101543.2"><vh>w10 發生的事</vh>
 <v t="leo.20181203101543.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203101543.4"><vh>w10 作業的成果</vh>
+<v t="leo.20181203101543.4" a="E"><vh>w10 作業的成果</vh>
 <v t="leo.20181203101543.5"><vh>1</vh></v>
 </v>
 <v t="leo.20181203101543.6"><vh>w10-3</vh>
 <v t="leo.20181203101543.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203102656.1"><vh>w11</vh>
-<v t="leo.20181203102656.2" a="E"><vh>w11 發生的事-1</vh>
+<v t="leo.20181203102656.1"><vh>w11 11/19</vh>
+<v t="leo.20181203102656.2"><vh>w11 發生的事-1</vh>
 <v t="leo.20181203102656.3"><vh>first</vh></v>
 </v>
 <v t="leo.20181210103620.1"><vh>w11 發生的事-2</vh>
@@ -45,25 +45,28 @@
 <v t="leo.20181203102656.4"><vh>w11 作業的成果-1</vh>
 <v t="leo.20181203102656.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181217120053.1" a="E"><vh>w11 作業的成果-2</vh>
+<v t="leo.20181217120053.1"><vh>w11 作業的成果-2</vh>
 <v t="leo.20181217120053.2"><vh>1</vh></v>
 </v>
-<v t="leo.20181203102656.6" a="E"><vh>w11-3</vh>
+<v t="leo.20181203102656.6"><vh>w11-3</vh>
 <v t="leo.20181203102656.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203105101.1" a="E"><vh>w12</vh>
-<v t="leo.20181203105101.2" a="E"><vh>w12 發生的事</vh>
+<v t="leo.20181203105101.1" a="E"><vh>w12 11/26</vh>
+<v t="leo.20181203105101.2"><vh>w12 發生的事</vh>
 <v t="leo.20181203105101.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203105101.4" a="E"><vh>w12 作業的成果</vh>
+<v t="leo.20181203105101.4"><vh>w12 作業的成果</vh>
 <v t="leo.20181203105101.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181203105101.6" a="E"><vh>w12-3</vh>
+<v t="leo.20181224115804.1"><vh>w12 作業的成果-2</vh>
+<v t="leo.20181224115804.2"><vh>1</vh></v>
+</v>
+<v t="leo.20181203105101.6"><vh>w12-3</vh>
 <v t="leo.20181203105101.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203105102.1"><vh>w13</vh>
+<v t="leo.20181203105102.1" a="E"><vh>w13 12/03</vh>
 <v t="leo.20181203105102.2" a="E"><vh>w13 發生的事</vh>
 <v t="leo.20181203105102.3"><vh>first</vh></v>
 </v>
@@ -74,7 +77,7 @@
 <v t="leo.20181203105102.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181210094359.1"><vh>w14</vh>
+<v t="leo.20181210094359.1"><vh>w14 12/10</vh>
 <v t="leo.20181210094359.2" a="E"><vh>w14 發生的事</vh>
 <v t="leo.20181210094359.3"><vh>first</vh></v>
 </v>
@@ -85,7 +88,7 @@
 <v t="leo.20181210094359.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181217113813.1"><vh>w15</vh>
+<v t="leo.20181217113813.1"><vh>w15 12//17</vh>
 <v t="leo.20181217113813.2" a="E"><vh>w15 發生的事</vh>
 <v t="leo.20181217113813.3"><vh>first</vh></v>
 </v>
@@ -94,6 +97,28 @@
 </v>
 <v t="leo.20181217113813.6" a="E"><vh>w15-3</vh>
 <v t="leo.20181217113813.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181224114546.1"><vh>w16 12//24</vh>
+<v t="leo.20181224114546.2" a="E"><vh>w16 發生的事</vh>
+<v t="leo.20181224114546.3"><vh>first</vh></v>
+</v>
+<v t="leo.20181224114546.4" a="E"><vh>w16 作業的成果</vh>
+<v t="leo.20181224114546.5"><vh>1</vh></v>
+</v>
+<v t="leo.20181224114546.6" a="E"><vh>w16-3</vh>
+<v t="leo.20181224114546.7"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20190102215710.1" a="E"><vh>w17 12//31</vh>
+<v t="leo.20190102215710.2" a="E"><vh>w17 發生的事</vh>
+<v t="leo.20190102215710.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190102215710.4" a="E"><vh>w17 作業的成果</vh>
+<v t="leo.20190102215710.5"><vh>1</vh></v>
+</v>
+<v t="leo.20190102215710.6" a="E"><vh>w17-3</vh>
+<v t="leo.20190102215710.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -404,9 +429,9 @@ make.start()
 <t tx="leo.20181203101543.3"># w10
 11/12
 
-&lt;p&gt;
-這周因為剛期中考完，除了分組和[期中自評成績](./../content/Introduction.html)外發生什麼特別的事
-&lt;/p&gt;
+
+* 這周因為剛期中考完，除了分組和[期中自評成績](./../content/Introduction.html)外發生什麼特別的事
+
 
 </t>
 <t tx="leo.20181203101543.4">&lt;section data-markdown&gt;
@@ -438,7 +463,9 @@ make.start()
 </t>
 <t tx="leo.20181203101543.7">## supplement
 
-這禮拜校慶，感覺人很少、運動項目報名情形也不太熱絡
+* 這禮拜校慶，感覺人很少、運動項目報名情形也不太熱絡
+
+* 路跑給的衣服竟然是紫的!有點....
 
 </t>
 <t tx="leo.20181203102030.1">&lt;section data-markdown&gt;
@@ -478,7 +505,7 @@ make.start()
 </t>
 <t tx="leo.20181203102656.3"># w11
 
-說明一些題目的範例以及有關把onshape的零件丟到V-rep 進行動態模擬之類的操作
+* 說明一些題目的範例以及有關把onshape的零件丟到V-rep 進行動態模擬之類的操作
 
 &lt;p&gt;
 參考
@@ -499,9 +526,9 @@ make.start()
 </t>
 <t tx="leo.20181203102656.5">## w11 work
 
-專案之主題經討論後，確認為3D列印機，並開始進行工作分配
+* 專案之主題經討論後，確認為3D列印機，並開始進行工作分配
 
-分工情形還尚未明確，組員先各自逕行網站之更新，因同時推送使得上傳更新不同步，有組員的隨身系統檔案無法推送，並且網站出現不少bug
+* 分工情形還尚未明確，組員先各自逕行網站之更新，因同時推送使得上傳更新不同步，有組員的隨身系統檔案無法推送，並且網站出現不少bug
 
 </t>
 <t tx="leo.20181203102656.6">&lt;section data-markdown&gt;
@@ -514,7 +541,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181203102656.7">## supplement
-選舉要到了，造勢發出的噪音越來越大聲
+* 選舉要到了，造勢發出的噪音越來越大聲
+
+* 路上都是競選的布條，十公尺內就有3~5個，有夠誇張
 
 </t>
 <t tx="leo.20181203105101.1">&lt;section&gt;
@@ -534,7 +563,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181203105101.3"># w12 
-
+* 似乎沒發生什麼特別的事，基本上就是各組自行作業
 </t>
 <t tx="leo.20181203105101.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -548,7 +577,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181203105101.5">## w12 work
-在網站上和倉儲新增連結，並在網站的簡介加入組員名單及其倉儲連結及自評成績
+* 在網站上和倉儲新增連結，並在網站的簡介加入組員名單及其倉儲連結及自評成績
+
+* 在協同上還是會有一些問題，但是跟上周比起來進步許多
 
 
 </t>
@@ -562,9 +593,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181203105101.7">## supplement
-選舉結束了，討人厭的噪音也沒了
+* 選舉結束了，討人厭的噪音也沒了
 
-貨出得去，人進得來，高雄發大財
+* 貨出得去，人進得來，高雄發大財
 </t>
 <t tx="leo.20181203105102.1">&lt;section&gt;
 @others
@@ -732,7 +763,117 @@ make.start()
 </t>
 <t tx="leo.20181217120053.2">## w11 work
 
-組員A修改了不適合的網誌背景，畫面太過雜亂被要求改回來
+* 組員A修改了不適合的網誌背景，畫面太過雜亂被要求改回來
+
+* 請不要在共同的網站上把背景貼上一些幼女圖，網路警察是有在工作的
+
+</t>
+<t tx="leo.20181224114546.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181224114546.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181224114546.3"># w16
+
+</t>
+<t tx="leo.20181224114546.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181224114546.5">## w16 work
+
+
+</t>
+<t tx="leo.20181224114546.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181224114546.7">## supplement
+
+</t>
+<t tx="leo.20181224115804.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181224115804.2">## w12 work
+像這樣
+
+&lt;img src="https://i.imgur.com/yVHYXAY.png" class="w3-round" alt="Norway"&gt;
+</t>
+<t tx="leo.20190102215710.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190102215710.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190102215710.3"># w17
+
+</t>
+<t tx="leo.20190102215710.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190102215710.5">## w17 work
+
+
+</t>
+<t tx="leo.20190102215710.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190102215710.7">## supplement
 
 </t>
 </tnodes>
