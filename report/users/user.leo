@@ -23,13 +23,6 @@
 <v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
-<v t="leo.20171119234822.1"><vh>各章節內容</vh>
-<v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
-<v t="yen.20170429220335.1" a="E"><vh>@clean onshape.md</vh>
-<v t="yen.20170429220335.2"><vh>FeatureScript</vh></v>
-</v>
-</v>
-</v>
 </v>
 </v>
 </vnodes>
@@ -191,7 +184,6 @@ abstract: |
 
 </t>
 <t tx="leo.20171119234752.1"></t>
-<t tx="leo.20171119234822.1"></t>
 <t tx="yen.20170429103742.1"></t>
 <t tx="yen.20170429103940.1"></t>
 <t tx="yen.20170429132400.1">每一位協同人員各在 users 目錄中建立一個 .leo 檔案
@@ -199,16 +191,5 @@ abstract: |
 各自選擇要編輯的 .md 檔案, 可以使用 @edit 或 @clean 節點編輯指令
 
 除非必要否則不更動 markdown 目錄下的 template.tex 檔案</t>
-<t tx="yen.20170429214845.1"></t>
-<t tx="yen.20170429220335.1">OnShape
-===
-
-OnShape 的概要
-
-@others</t>
-<t tx="yen.20170429220335.2">FeatureScript
----
-
-FeatureScript 的內容</t>
 </tnodes>
 </leo_file>
