@@ -219,7 +219,7 @@ abstract: |
     + 前面使用加號
     
     本研究的重點在於 探討3D列印機的運作模式
----
+    &lt;img scr="tmp/bg5/report/pdf/002.jpg"&gt;
 
 
 </t>
