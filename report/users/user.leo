@@ -26,13 +26,12 @@
 </v>
 <v t="leo.20171119234822.1" a="E"><vh>各章節內容</vh>
 <v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
-<v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh>
-<v t="yen.20170429214838.3"><vh>電腦硬體</vh></v>
-</v>
+<v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh></v>
 <v t="yen.20170429215041.1"><vh>@clean operating_system.md</vh>
 <v t="yen.20170429215130.1"><vh>Windows</vh></v>
 <v t="yen.20170429215205.1"><vh>Ubuntu</vh></v>
 </v>
+<v t="yen.20170429214838.3"><vh>11/23 W11</vh></v>
 <v t="yen.20170429215252.1"><vh>@clean computer_network.md</vh>
 <v t="yen.20170429215308.1"><vh>IPv4</vh></v>
 <v t="yen.20170429215316.1"><vh>IPv6</vh></v>
@@ -217,7 +216,7 @@ abstract: |
     + 使用 Markdown 語法。
     + 前面使用加號
     
-    本研究的重點在於 探討3D列印機的運作模式，
+    本研究的重點在於 探討3D列印機的運作模式
 ---
 
 
@@ -237,20 +236,12 @@ abstract: |
 電腦硬體 的概要
 
 @others</t>
-<t tx="yen.20170429214838.3">前言內容。
+<t tx="yen.20170429214838.3">
+11/23 第11週
 
-\ 
+組長與組員之進度:
 
-一個範例數學式：$$\beta=\cos^{-1}{\frac{L0^{2}+d_{AB}^{2}-R0^{2}}{2\times{L0\times{d_{AB}}}}}$$
-
-\ 
-
-關於數學式可以參考這裡：[http://www.hostmath.com/][]
-
-[http://www.hostmath.com/]: http://www.hostmath.com/
-
-提及了某篇刊物[@myart]在這裡。
-</t>
+組員間討論期末專案報告主題，</t>
 <t tx="yen.20170429214845.1"></t>
 <t tx="yen.20170429215041.1">操作系統
 ===
