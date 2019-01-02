@@ -20,8 +20,8 @@
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
 <v t="leo.20171119234752.1"><vh>封面以及摘要</vh></v>
-<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
-<v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
+<v t="leo.20190102184116.1"><vh>@clean cover_and_abstract.md</vh>
+<v t="leo.20190102184116.2"><vh>摘要</vh></v>
 </v>
 </v>
 </v>
@@ -76,24 +76,6 @@ g.es("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/r
 g.es("PDF 轉換完畢")
 g.es('-'*12)</t>
 <t tx="ahshoe.20161120121808.1"></t>
-<t tx="ahshoe.20161120122151.1">---
-university_zh: '國立虎尾科技大學'
-institute_zh: '機械設計工程系'
-category_zh: '電腦輔助設計實習 bg5 期末報告'
-title_zh: '3D列印機'
-title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
-author:
-- 設計二乙 40623222 蔡博淮
-- 設計二乙 40623217 楊傅博
-- 設計二乙 40623223 任明彥
-- 設計二乙 40623224 鍾偉哲
-- 設計二乙 40623231 周駿麟
-advisor_zh: '嚴家銘 教授'
-date: '2017.12.15'
----
-
-@others
-</t>
 <t tx="ahshoe.20170315212615.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
     background-color: #ffffec; /* Leo's traditional tree color */
@@ -169,7 +151,26 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="ahshoe.20170315212626.1">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="ahshoe.20170317115820.1">---
+<t tx="leo.20171119234752.1"></t>
+<t tx="leo.20190102184116.1">---
+university_zh: '國立虎尾科技大學'
+institute_zh: '機械設計工程系'
+category_zh: '電腦輔助設計實習 bg5 期末報告'
+title_zh: '3D列印機'
+title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
+author:
+- 設計二乙 40623222 蔡博淮
+- 設計二乙 40623217 楊傅博
+- 設計二乙 40623223 任明彥
+- 設計二乙 40623224 鍾偉哲
+- 設計二乙 40623231 周駿麟
+advisor_zh: '嚴家銘 教授'
+date: '2017.12.15'
+---
+
+@others
+</t>
+<t tx="leo.20190102184116.2">---
 abstract: |
     這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
     
@@ -183,7 +184,6 @@ abstract: |
 
 
 </t>
-<t tx="leo.20171119234752.1"></t>
 <t tx="yen.20170429103742.1"></t>
 <t tx="yen.20170429103940.1"></t>
 <t tx="yen.20170429132400.1">每一位協同人員各在 users 目錄中建立一個 .leo 檔案
