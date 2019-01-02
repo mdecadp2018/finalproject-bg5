@@ -19,14 +19,13 @@
 <v t="yen.20170429103940.1" a="E"><vh>@path markdown</vh>
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
-<v t="leo.20171119234752.1" a="E"><vh>封面以及摘要</vh>
-<v t="ahshoe.20161120122151.1" a="E"><vh>@clean cover_and_abstract.md</vh>
+<v t="leo.20171119234752.1"><vh>封面以及摘要</vh></v>
+<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
-</v>
-<v t="leo.20171119234822.1" a="E"><vh>各章節內容</vh>
+<v t="leo.20171119234822.1"><vh>各章節內容</vh>
 <v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
-<v t="yen.20170429220335.1"><vh>@clean onshape.md</vh>
+<v t="yen.20170429220335.1" a="E"><vh>@clean onshape.md</vh>
 <v t="yen.20170429220335.2"><vh>FeatureScript</vh></v>
 </v>
 </v>
