@@ -28,7 +28,7 @@
 <v t="leo.20181203101543.2"><vh>w10 發生的事</vh>
 <v t="leo.20181203101543.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203101543.4" a="E"><vh>w10 作業的成果</vh>
+<v t="leo.20181203101543.4"><vh>w10 作業的成果</vh>
 <v t="leo.20181203101543.5"><vh>1</vh></v>
 </v>
 <v t="leo.20181203101543.6"><vh>w10-3</vh>
@@ -52,7 +52,7 @@
 <v t="leo.20181203102656.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203105101.1" a="E"><vh>w12 11/26</vh>
+<v t="leo.20181203105101.1"><vh>w12 11/26</vh>
 <v t="leo.20181203105101.2"><vh>w12 發生的事</vh>
 <v t="leo.20181203105101.3"><vh>first</vh></v>
 </v>
@@ -89,35 +89,47 @@
 </v>
 </v>
 <v t="leo.20181217113813.1"><vh>w15 12//17</vh>
-<v t="leo.20181217113813.2" a="E"><vh>w15 發生的事</vh>
+<v t="leo.20181217113813.2"><vh>w15 發生的事</vh>
 <v t="leo.20181217113813.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181217113813.4" a="E"><vh>w15 作業的成果</vh>
+<v t="leo.20181217113813.4"><vh>w15 作業的成果</vh>
 <v t="leo.20181217113813.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181217113813.6" a="E"><vh>w15-3</vh>
+<v t="leo.20190104145451.1"><vh>w15 作業的成果-pdf</vh>
+<v t="leo.20190104145451.2"><vh>1</vh></v>
+</v>
+<v t="leo.20181217113813.6"><vh>w15-3</vh>
 <v t="leo.20181217113813.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181224114546.1"><vh>w16 12//24</vh>
+<v t="leo.20181224114546.1" a="E"><vh>w16 12//24</vh>
 <v t="leo.20181224114546.2" a="E"><vh>w16 發生的事</vh>
 <v t="leo.20181224114546.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181224114546.4" a="E"><vh>w16 作業的成果</vh>
+<v t="leo.20181224114546.4"><vh>w16 作業的成果</vh>
 <v t="leo.20181224114546.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181224114546.6" a="E"><vh>w16-3</vh>
+<v t="leo.20190104160633.1"><vh>w16 作業的成果-pdf-1</vh>
+<v t="leo.20190104160633.2"><vh>1</vh></v>
+</v>
+<v t="leo.20190104161902.1"><vh>w16 作業的成果-pdf-2</vh>
+<v t="leo.20190104161902.2"><vh>1</vh></v>
+</v>
+<v t="leo.20181224114546.6"><vh>w16-3</vh>
 <v t="leo.20181224114546.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20190102215710.1" a="E"><vh>w17 12//31</vh>
-<v t="leo.20190102215710.2" a="E"><vh>w17 發生的事</vh>
+<v t="leo.20190102215710.1"><vh>w17 12//31</vh>
+<v t="leo.20190102215710.2"><vh>w17 發生的事</vh>
 <v t="leo.20190102215710.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190102215710.4" a="E"><vh>w17 作業的成果</vh>
+<v t="leo.20190102215710.4"><vh>w17 作業的成果</vh>
 <v t="leo.20190102215710.5"><vh>1</vh></v>
 </v>
-<v t="leo.20190102215710.6" a="E"><vh>w17-3</vh>
+<v t="leo.20190104145429.1"><vh>w17 作業的成果-pdf</vh>
+<v t="leo.20190104145429.2"><vh>1</vh></v>
+</v>
+<v t="leo.20190102215710.6"><vh>w17-3</vh>
 <v t="leo.20190102215710.7"><vh>2</vh></v>
 </v>
 </v>
@@ -785,8 +797,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181224114546.3"># w16
+* 本周離期末的報告還剩兩個禮拜，目前的專題以逐漸成形
 
-</t>
+* 課堂上還是給各組繼續專題的作業</t>
 <t tx="leo.20181224114546.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -874,6 +887,72 @@ make.start()
 						
 </t>
 <t tx="leo.20190102215710.7">## supplement
+元旦放假
+</t>
+<t tx="leo.20190104145429.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104145429.2">## w17 work-pdf
+
+
+</t>
+<t tx="leo.20190104145451.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104145451.2">## w15 work-pdf
+* 本周開始製作PDF
+
+* PDF的編寫方式尚未決定，所以先以翻譯並歸納重點為主
+
+* 目前有[MikTeX](https://miktex.org/)跟[MS Word](https://bit.ly/2KzIMGF)兩個選擇，前者較後者複雜但相對完整，後者較簡單但功能較少</t>
+<t tx="leo.20190104160633.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104160633.2">## w16 work-pdf
+* 依報告的需求下決定PDF的製作用MikTeX來撰寫
+
+* 一開始的路徑及一些參數設定出現問題，再經過修正後已無大礙
+
+* [PDF](https://mdecadp2018.github.io/finalproject-bg5/downloads/report.pdf)的格式已完成，已有部分內容修改完成
+</t>
+<t tx="leo.20190104161902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104161902.2">修改了標題及組員等基本資料
+
+&lt;img src="https://i.imgur.com/eR9xP1e.png" class="w3-round" alt="Norway" width="640" high="640"&gt;
 
 </t>
 </tnodes>
