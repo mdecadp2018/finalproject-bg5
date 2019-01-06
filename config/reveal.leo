@@ -1354,6 +1354,8 @@ S
 </t>
 <t tx="leo.20190106215806.2">### 上固定塊
 
+作用為固定支撐桿,共兩個,左右各一
+
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E4%B8%8A%E5%9B%BA%E5%AE%9A%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
 </t>
 <t tx="leo.20190106215918.1">&lt;section data-markdown&gt;
@@ -1368,6 +1370,8 @@ S
 						
 </t>
 <t tx="leo.20190106215918.2">### 下平台
+
+連接滑塊使其能夠在Y軸運動
 
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E4%B8%8B%E5%B9%B3%E5%8F%B0.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
 
@@ -1385,6 +1389,8 @@ S
 </t>
 <t tx="leo.20190106215919.2">### 上平台
 
+用螺絲固定在上平台,工作時必須要和射出頭呈垂直狀,成品將在這裡完成
+
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B9%B3%E5%8F%B0.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
 </t>
 <t tx="leo.20190106215919.3">&lt;section data-markdown&gt;
@@ -1400,7 +1406,7 @@ S
 </t>
 <t tx="leo.20190106215919.4">### 平台滑塊
 
-
+滑塊連接下平台和滑桿,做Y軸運動
 
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B9%B3%E5%8F%B0%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
 
@@ -1418,6 +1424,7 @@ S
 </t>
 <t tx="leo.20190106215919.6">### 支架
 
+整體最重要結構,需具有一定的強度
 
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E6%94%AF%E6%9E%B6.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
@@ -1435,9 +1442,11 @@ S
 </t>
 <t tx="leo.20190106215919.8">### 各軸固定桿
 
+各軸向的固定
 
+&lt;img src="https://i.imgur.com/dNhC1VM.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://i.imgur.com/dNhC1VM.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106215920.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1451,9 +1460,12 @@ S
 </t>
 <t tx="leo.20190106215920.2">### 下固定板
 
+固定滑桿和連接骨架
 
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E4%B8%8B%E6%AA%94%E6%9D%BF.PNG
-" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+" class="w3-round" alt="Norway" width="360 " high="360"&gt;
+
+</t>
 <t tx="leo.20190106220025.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1467,9 +1479,11 @@ S
 </t>
 <t tx="leo.20190106220025.2">### 左側滑塊
 
+連接滑塊和導螺桿,當導螺桿轉動時會帶動射出頭做Z軸方向運動
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%81%B4%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%81%B4%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1483,9 +1497,11 @@ S
 </t>
 <t tx="leo.20190106220026.2">### 右側滑塊
 
+連接滑塊和導螺桿,當導螺桿轉動時會帶動射出頭做Z軸方向運動
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%8F%B3%E5%81%B4%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%8F%B3%E5%81%B4%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220026.3">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1499,9 +1515,11 @@ S
 </t>
 <t tx="leo.20190106220026.4">### 前擋板
 
+固定滑桿和連接皮帶輪帶動平台做Y軸運動
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%89%8D%E6%93%8B%E6%9D%BF.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%89%8D%E6%93%8B%E6%9D%BF.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220026.5">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1517,7 +1535,9 @@ S
 
 
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%A2%8A%E5%9C%88.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%A2%8A%E5%9C%88.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
+
+</t>
 <t tx="leo.20190106220026.7">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1533,7 +1553,9 @@ S
 
 
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%8E%E8%9E%BA%E6%A1%BF%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%8E%E8%9E%BA%E6%A1%BF%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
+
+</t>
 <t tx="leo.20190106220200.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1547,9 +1569,11 @@ S
 </t>
 <t tx="leo.20190106220200.2">### 射出頭
 
+塑料將在這裏面融化並射出在平台上
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220200.3">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1563,9 +1587,11 @@ S
 </t>
 <t tx="leo.20190106220200.4">### 射出頭滑塊
 
+塑料將在這裏面融化並射出在平台上
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220200.5">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1579,9 +1605,11 @@ S
 </t>
 <t tx="leo.20190106220200.6">### 導螺桿
 
+當導螺桿轉動時,射出頭能夠上下運動
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E8%9E%BA%E6%A1%BF.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E8%9E%BA%E6%A1%BF.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220201.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1595,9 +1623,11 @@ S
 </t>
 <t tx="leo.20190106220201.2">### 螺絲
 
+連接下平台和上平台,使上平台和射出頭呈垂直狀
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E8%9E%BA%E7%B5%B2.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E8%9E%BA%E7%B5%B2.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220237.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1611,9 +1641,11 @@ S
 </t>
 <t tx="leo.20190106220237.2">### 馬達
 
+帶動導螺桿和皮帶使射出頭和平台能夠移動
 
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+</t>
 <t tx="leo.20190106220237.3">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1627,9 +1659,12 @@ S
 </t>
 <t tx="leo.20190106220237.4">### 馬達固定塊
 
+連接骨架,固定馬達
 
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94%E5%9B%BA%E5%AE%9A%E5%A1%8A.PNG
-" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+" class="w3-round" alt="Norway" width="360 " high="360"&gt;
+
+</t>
 <t tx="leo.20190106220238.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1645,6 +1680,8 @@ S
 
 
 
-&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94%E8%BB%B8.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94%E8%BB%B8.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
+
+</t>
 </tnodes>
 </leo_file>
