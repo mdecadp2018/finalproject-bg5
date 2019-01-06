@@ -24,7 +24,83 @@
 <v t="leo.20180827201621.9"><vh>bg5封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>bg5封面投影片內容</vh></v>
 </v>
-<v t="leo.20181203101543.1" a="E"><vh>w10 11/12</vh>
+<v t="leo.20190106174800.1" a="E"><vh>前言</vh>
+<v t="leo.20190106174800.2"><vh>前言內容</vh></v>
+</v>
+<v t="leo.20190106184418.1"><vh>摘要</vh>
+<v t="leo.20190106184418.2"><vh>摘要內容</vh></v>
+</v>
+<v t="leo.20190106215623.1" a="E"><vh>各零件的設計</vh>
+<v t="leo.20190106215623.2" a="E"><vh>設計</vh>
+<v t="leo.20190106215623.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215806.1" a="E"><vh>上固定塊</vh>
+<v t="leo.20190106215806.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215918.1" a="E"><vh>下平台</vh>
+<v t="leo.20190106215918.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215919.1" a="E"><vh>上平台</vh>
+<v t="leo.20190106215919.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215919.3" a="E"><vh>平台滑塊</vh>
+<v t="leo.20190106215919.4"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215919.5" a="E"><vh>支架</vh>
+<v t="leo.20190106215919.6"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215919.7" a="E"><vh>各軸固定桿</vh>
+<v t="leo.20190106215919.8"><vh>first</vh></v>
+</v>
+<v t="leo.20190106215920.1" a="E"><vh>下固定板</vh>
+<v t="leo.20190106215920.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220025.1" a="E"><vh>左側滑塊</vh>
+<v t="leo.20190106220025.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220026.1" a="E"><vh>右側滑塊</vh>
+<v t="leo.20190106220026.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220026.3" a="E"><vh>前擋板</vh>
+<v t="leo.20190106220026.4"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220026.5" a="E"><vh>墊圈</vh>
+<v t="leo.20190106220026.6"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220026.7" a="E"><vh>導螺桿塊</vh>
+<v t="leo.20190106220026.8"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220200.1" a="E"><vh>射出頭</vh>
+<v t="leo.20190106220200.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220200.3" a="E"><vh>射出頭滑塊</vh>
+<v t="leo.20190106220200.4"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220200.5" a="E"><vh>導螺桿</vh>
+<v t="leo.20190106220200.6"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220201.1" a="E"><vh>螺絲</vh>
+<v t="leo.20190106220201.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220237.1" a="E"><vh>馬達</vh>
+<v t="leo.20190106220237.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220237.3" a="E"><vh>馬達固定塊</vh>
+<v t="leo.20190106220237.4"><vh>first</vh></v>
+</v>
+<v t="leo.20190106220238.1" a="E"><vh>馬達軸</vh>
+<v t="leo.20190106220238.2"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190105131339.1"><vh>組員分工</vh>
+<v t="leo.20190105131407.1" a="E"><vh>組員分工(首)</vh>
+<v t="leo.20190105131407.2"><vh>分工內容</vh></v>
+</v>
+<v t="leo.20190105131405.1"><vh>組員分工</vh>
+<v t="leo.20190105131405.2"><vh>分工內容</vh></v>
+</v>
+</v>
+<v t="leo.20181203101543.1"><vh>w10 11/12</vh>
 <v t="leo.20181203101543.2"><vh>w10 發生的事</vh>
 <v t="leo.20181203101543.3"><vh>first</vh></v>
 </v>
@@ -56,44 +132,56 @@
 <v t="leo.20181203105101.2"><vh>w12 發生的事</vh>
 <v t="leo.20181203105101.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203105101.4"><vh>w12 作業的成果</vh>
+<v t="leo.20181203105101.4"><vh>w12 作業的成果 1</vh>
 <v t="leo.20181203105101.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181224115804.1"><vh>w12 作業的成果-2</vh>
+<v t="leo.20181224115804.1"><vh>w12 作業的成果</vh>
 <v t="leo.20181224115804.2"><vh>1</vh></v>
 </v>
 <v t="leo.20181203105101.6"><vh>w12-3</vh>
 <v t="leo.20181203105101.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181203105102.1" a="E"><vh>w13 12/03</vh>
-<v t="leo.20181203105102.2" a="E"><vh>w13 發生的事</vh>
+<v t="leo.20181203105102.1"><vh>w13 12/03</vh>
+<v t="leo.20181203105102.2"><vh>w13 發生的事</vh>
 <v t="leo.20181203105102.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203105102.4" a="E"><vh>w13 作業的成果</vh>
-<v t="leo.20181203105102.5"><vh>1</vh></v>
+<v t="leo.20190106174045.1"><vh>w13 作業的成果 2</vh>
+<v t="leo.20190106174045.2"><vh>1</vh></v>
 </v>
-<v t="leo.20181203105102.6" a="E"><vh>w13-3</vh>
+<v t="leo.20190106174054.1"><vh>w13 作業的成果 2-1</vh>
+<v t="leo.20190106174054.2"><vh>1</vh></v>
+</v>
+<v t="leo.20190106174057.1"><vh>w13 作業的成果 3</vh>
+<v t="leo.20190106174057.2"><vh>1</vh></v>
+</v>
+<v t="leo.20181203105102.6"><vh>w13-3</vh>
 <v t="leo.20181203105102.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20181210094359.1"><vh>w14 12/10</vh>
-<v t="leo.20181210094359.2" a="E"><vh>w14 發生的事</vh>
+<v t="leo.20181210094359.2"><vh>w14 發生的事</vh>
 <v t="leo.20181210094359.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181210094359.4" a="E"><vh>w14 作業的成果</vh>
+<v t="leo.20190106192254.1"><vh>w14 發生的事-1</vh>
+<v t="leo.20190106192254.2"><vh>first</vh></v>
+</v>
+<v t="leo.20181210094359.4"><vh>w14 作業的成果</vh>
 <v t="leo.20181210094359.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181210094359.6" a="E"><vh>w14-3</vh>
+<v t="leo.20181210094359.6"><vh>w14-3</vh>
 <v t="leo.20181210094359.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20181217113813.1"><vh>w15 12//17</vh>
-<v t="leo.20181217113813.2"><vh>w15 發生的事</vh>
-<v t="leo.20181217113813.3"><vh>first</vh></v>
+<v t="leo.20190106193107.1" a="E"><vh>w15 發生的事</vh>
+<v t="leo.20190106193107.2"><vh>first</vh></v>
 </v>
-<v t="leo.20181217113813.4"><vh>w15 作業的成果</vh>
-<v t="leo.20181217113813.5"><vh>1</vh></v>
+<v t="leo.20190106193113.1"><vh>w15 發生的事-1</vh>
+<v t="leo.20190106193113.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106194941.1" a="E"><vh>w15 作業的成果</vh>
+<v t="leo.20190106194941.2"><vh>1</vh></v>
 </v>
 <v t="leo.20190104145451.1"><vh>w15 作業的成果-pdf</vh>
 <v t="leo.20190104145451.2"><vh>1</vh></v>
@@ -102,12 +190,21 @@
 <v t="leo.20181217113813.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181224114546.1" a="E"><vh>w16 12//24</vh>
-<v t="leo.20181224114546.2" a="E"><vh>w16 發生的事</vh>
+<v t="leo.20181224114546.1"><vh>w16 12//24</vh>
+<v t="leo.20181224114546.2"><vh>w16 發生的事</vh>
 <v t="leo.20181224114546.3"><vh>first</vh></v>
 </v>
 <v t="leo.20181224114546.4"><vh>w16 作業的成果</vh>
 <v t="leo.20181224114546.5"><vh>1</vh></v>
+</v>
+<v t="leo.20190106201405.1" a="E"><vh>w16 作業的成果-骨架</vh>
+<v t="leo.20190106201405.2"><vh>1</vh></v>
+</v>
+<v t="leo.20190106211536.1"><vh>w16 作業的成果-滑軌</vh>
+<v t="leo.20190106211536.2"><vh>1</vh></v>
+</v>
+<v t="leo.20190106211536.3"><vh>w16 作業的成果-馬達</vh>
+<v t="leo.20190106211536.4"><vh>1</vh></v>
 </v>
 <v t="leo.20190104160633.1"><vh>w16 作業的成果-pdf-1</vh>
 <v t="leo.20190104160633.2"><vh>1</vh></v>
@@ -125,6 +222,9 @@
 </v>
 <v t="leo.20190102215710.4"><vh>w17 作業的成果</vh>
 <v t="leo.20190102215710.5"><vh>1</vh></v>
+</v>
+<v t="leo.20190106212007.1"><vh>w17 作業的成果-組合圖</vh>
+<v t="leo.20190106212007.2"><vh>1</vh></v>
 </v>
 <v t="leo.20190104145429.1"><vh>w17 作業的成果-pdf</vh>
 <v t="leo.20190104145429.2"><vh>1</vh></v>
@@ -440,8 +540,7 @@ make.start()
 </t>
 <t tx="leo.20181203101543.3"># w10
 11/12
-
-
+S
 * 這周因為剛期中考完，除了分組和[期中自評成績](./../content/Introduction.html)外發生什麼特別的事
 
 
@@ -475,7 +574,9 @@ make.start()
 </t>
 <t tx="leo.20181203101543.7">## supplement
 
-* 這禮拜校慶，感覺人很少、運動項目報名情形也不太熱絡
+* 這禮拜校慶
+
+* 參加的人感覺很少、運動項目報名情形也不太熱絡
 
 * 路跑給的衣服竟然是紫的!有點....
 
@@ -516,6 +617,8 @@ make.start()
 						
 </t>
 <t tx="leo.20181203102656.3"># w11
+
+11/19S
 
 * 說明一些題目的範例以及有關把onshape的零件丟到V-rep 進行動態模擬之類的操作
 
@@ -575,7 +678,11 @@ make.start()
 						
 </t>
 <t tx="leo.20181203105101.3"># w12 
-* 似乎沒發生什麼特別的事，基本上就是各組自行作業
+
+11/26
+
+* 上課時似乎沒發生什麼特別的事，基本上就是各組自行作業
+
 </t>
 <t tx="leo.20181203105101.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -592,7 +699,6 @@ make.start()
 * 在網站上和倉儲新增連結，並在網站的簡介加入組員名單及其倉儲連結及自評成績
 
 * 在協同上還是會有一些問題，但是跟上周比起來進步許多
-
 
 </t>
 <t tx="leo.20181203105101.6">&lt;section data-markdown&gt;
@@ -627,21 +733,11 @@ make.start()
 </t>
 <t tx="leo.20181203105102.3"># w13 
 
-</t>
-<t tx="leo.20181203105102.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+12/03
 
+* 各組達成共識，把網站的格式統一以方便確認資料位置
 
-
-						
-</t>
-<t tx="leo.20181203105102.5">## w13 work
-
-
+* 將網站大部分文字修改成英文
 </t>
 <t tx="leo.20181203105102.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -653,7 +749,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181203105102.7">## supplement
-
+* 沒有發生什麼特別的事
 </t>
 <t tx="leo.20181210094359.1">&lt;section&gt;
 @others
@@ -671,8 +767,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181210094359.3"># w14
+<t tx="leo.20181210094359.3"># w14 
 
+* 12/10
+
+* 這禮拜在介紹有關PDF的製作，用miktex編寫並設定一些路徑的參數
+
+* 剩下的時間由各組自行利用
 </t>
 <t tx="leo.20181210094359.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -686,8 +787,11 @@ make.start()
 						
 </t>
 <t tx="leo.20181210094359.5">## w14 work
+* 新增onshape草圖繪製功能的動態圖像
 
+* 處理網站上的bug，其問題跟上周相似
 
+* 開始撰寫網際簡報的內容，增加前幾周的作業進度
 </t>
 <t tx="leo.20181210094359.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -699,7 +803,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181210094359.7">## supplement
-
+* 本周開始補課，於每禮拜(四)的19:00-19:50
 </t>
 <t tx="leo.20181210103620.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -721,35 +825,6 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181217113813.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181217113813.3"># w15
-
-</t>
-<t tx="leo.20181217113813.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181217113813.5">## w15 work
-
-
-</t>
 <t tx="leo.20181217113813.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -760,7 +835,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181217113813.7">## supplement
-
+本周(六)補1/1日元旦的課
 </t>
 <t tx="leo.20181217120053.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -797,9 +872,14 @@ make.start()
 						
 </t>
 <t tx="leo.20181224114546.3"># w16
+
+12/24
+
 * 本周離期末的報告還剩兩個禮拜，目前的專題以逐漸成形
 
-* 課堂上還是給各組繼續專題的作業</t>
+* 課堂上還是給各組繼續專題的作業
+
+</t>
 <t tx="leo.20181224114546.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -812,7 +892,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181224114546.5">## w16 work
+* onshape上的零件圖繪製已開始成形，其部分組合圖已完成
 
+* v-rep的模擬情形碰到了一些問題，零件似乎無法如預期的做動
 
 </t>
 <t tx="leo.20181224114546.6">&lt;section data-markdown&gt;
@@ -825,6 +907,8 @@ make.start()
 						
 </t>
 <t tx="leo.20181224114546.7">## supplement
+* 12/25聖誕節
+
 
 </t>
 <t tx="leo.20181224115804.1">&lt;section data-markdown&gt;
@@ -838,10 +922,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181224115804.2">## w12 work
-像這樣
+<t tx="leo.20181224115804.2">其加入組員名單及其倉儲連結及自評成績如下圖
 
-&lt;img src="https://i.imgur.com/yVHYXAY.png" class="w3-round" alt="Norway"&gt;
+&lt;img src="https://i.imgur.com/yVHYXAY.png" class="w3-round" alt="Norway"width="640" high="640"&gt;
 </t>
 <t tx="leo.20190102215710.1">&lt;section&gt;
 @others
@@ -861,6 +944,13 @@ make.start()
 </t>
 <t tx="leo.20190102215710.3"># w17
 
+12/31
+
+* 本周因彈性放假而未上課
+
+* 下周需上台進行專題報告，其內容的詳細格式如右[期末考週任務規劃](https://github.com/mdecourse/cadp2018/issues/18)
+* 專題的製作及onshape的PDF說明手冊須在本周完成
+
 </t>
 <t tx="leo.20190102215710.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -874,6 +964,12 @@ make.start()
 						
 </t>
 <t tx="leo.20190102215710.5">## w17 work
+* 各項報告內容已接近完成，網際簡報的編寫進入最後的修改
+
+* v-rep模擬所出現的問題無法解決，網路上多是以鋼球運動的教學，故沒辦法有模擬其運動方式
+
+* 最後的零件組合圖已完成
+
 
 
 </t>
@@ -887,7 +983,7 @@ make.start()
 						
 </t>
 <t tx="leo.20190102215710.7">## supplement
-元旦放假
+* 元旦放假
 </t>
 <t tx="leo.20190104145429.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -901,7 +997,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190104145429.2">## w17 work-pdf
+* 因MikTeX的問題無法解決，所以在中途改用word製作
 
+* [final report](https://mdecadp2018.github.io/finalproject-bg5/downloads/github_bg5.pdf)的製作已完成
 
 </t>
 <t tx="leo.20190104145451.1">&lt;section data-markdown&gt;
@@ -918,9 +1016,9 @@ make.start()
 <t tx="leo.20190104145451.2">## w15 work-pdf
 * 本周開始製作PDF
 
-* PDF的編寫方式尚未決定，所以先以翻譯並歸納重點為主
+* 目前有[MikTeX](https://miktex.org/)跟[MS Word](https://bit.ly/2KzIMGF)兩個選擇，前者較後者複雜但相對完整，後者較簡單但功能較少
 
-* 目前有[MikTeX](https://miktex.org/)跟[MS Word](https://bit.ly/2KzIMGF)兩個選擇，前者較後者複雜但相對完整，後者較簡單但功能較少</t>
+</t>
 <t tx="leo.20190104160633.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -948,12 +1046,605 @@ make.start()
 
 
 
-						
+
 </t>
 <t tx="leo.20190104161902.2">修改了標題及組員等基本資料
 
 &lt;img src="https://i.imgur.com/eR9xP1e.png" class="w3-round" alt="Norway" width="640" high="640"&gt;
 
 </t>
+<t tx="leo.20190105131339.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190105131405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105131405.2">* drawing
+
+ * 鐘偉哲  40623224:v-rep的模擬
+
+ * 周駿麟  40623231:機件的繪製
+
+* Onshape
+
+ * 卓昆鋒  40623225:onshape手冊的功能介紹及重點歸納，
+
+ * 楊傅博  40623217:onshape手冊的功能介紹及重點歸納，以繪製功能及草圖約束為主
+
+</t>
+<t tx="leo.20190105131407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105131407.2">## 組員分工
+
+* 其粗略的分工情形在[網站](./../blog/index.html)的簡介上
+
+* 詳細的分工如下
+
+* wed:
+
+ * 蔡博淮  40623222:製作PDF及網站格式、文字修改
+
+ * 任明彥  40623223:維護網站及投影片的格式、內容編寫
+</t>
+<t tx="leo.20190106174045.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106174045.2">## w13 work
+* 在修改格式時發生了因各組員近端與遠端衝突，所以將所有人的近端刪除，其中一組員將碗端內容重新下載並debug後其餘組員再clone下來
+
+* 部分的分工內容再作調整，修改成如投影片第述的組員分工
+</t>
+<t tx="leo.20190106174054.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106174054.2">▼bug的內容樣式如下，其問題的原因如網站上的[Issue  Solution](https://mdecadp2018.github.io/finalproject-bg5/content/Issue%C2%A0&amp;%20Solution.html)
+
+&lt;img src="https://i.imgur.com/nGcqRgo.png" class="w3-round" alt="Norway"width="640" high="640"&gt;
+
+</t>
+<t tx="leo.20190106174057.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106174057.2">新增自行點名表單
+
+&lt;img src="https://i.imgur.com/NzxBdOh.png" class="w3-round" alt="Norway"width="640" high="640"&gt;
+
+</t>
+<t tx="leo.20190106174800.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106174800.2">## 前言
+### 3D printer
+
+* 目前各項的產業上越來越多的已3D列印機進行客製化的產品，原因不外乎是因為再設計上有極高的自由性，以使材料堆疊的方式製造一般加工機做不到的形狀，這種技術的
+
+本次的專題報告主要是以線性的3D列印機做其機構，用v-rep模擬分析、機件的設計及介紹其功能
+
+</t>
+<t tx="leo.20190106184418.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106184418.2">## 摘要
+
+* [機件](https://mdecadp2018.github.io/finalproject-bg5/content/parts%20drawing.html)的繪製及v-rep的模擬
+
+* [onshape手冊](https://mdecadp2018.github.io/finalproject-bg5/content/Onshape.html)
+
+* [Final report](https://mdecadp2018.github.io/finalproject-bg5/downloads/github_bg5.pdf)的製作
+
+* 各周的上課情形及工作進度
+
+</t>
+<t tx="leo.20190106192254.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106192254.2">教學的影片
+
+&lt;iframe width="624" height="480" src="https://www.youtube.com/embed/2833erZxUAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+下載MikTeX[網址](https://mdecp2018.github.io/finalproject-bgx/content/Leo-editor.html)
+
+</t>
+<t tx="leo.20190106193107.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106193107.2"># w15
+
+12/17
+
+* 介紹使用v-rep設定零件並模擬其運動的路徑，以分析機件做動模式
+
+* 剩下的時間由各組自行利用
+</t>
+<t tx="leo.20190106193113.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106193113.2">教學的影片
+
+&lt;iframe width="624" height="480" src="https://www.youtube.com/embed/DoiiDLpwBcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+下載v-rep[網址](https://mdecp2018.github.io/finalproject-bgx/content/Inverse%20Kinematics.html)
+
+</t>
+<t tx="leo.20190106194941.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106194941.2">## w15 work
+* 新增onshape草圖約束功能的動態圖像
+
+* 更新網際簡報至本周
+
+* 於網站上新增教學影片
+
+</t>
+<t tx="leo.20190106201405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106201405.2">骨架
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%AA%A8%E6%9E%B6%E7%B5%84%E5%90%88.jpg" class="w3-round" alt="Norway" width="480" high="480"&gt;
+</t>
+<t tx="leo.20190106211536.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106211536.2">滑軌
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E6%BB%91%E8%BB%8C.jpg" class="w3-round" alt="Norway" width="480" high="480"&gt;
+</t>
+<t tx="leo.20190106211536.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106211536.4">馬達
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94.jpg" class="w3-round" alt="Norway" width="480" high="480"&gt;
+
+其各項零件圖的[網址](https://mdecadp2018.github.io/finalproject-bg5/content/parts%20drawing.html)
+
+</t>
+<t tx="leo.20190106212007.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106212007.2">組合圖
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E7%B5%84%E5%90%88%E5%9C%96.jpg" class="w3-round" alt="Norway" width="480" high="480"&gt;
+</t>
+<t tx="leo.20190106215623.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106215623.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215623.3">## 3D列印機的設計
+</t>
+<t tx="leo.20190106215806.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215806.2">### 上固定塊
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E4%B8%8A%E5%9B%BA%E5%AE%9A%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
+</t>
+<t tx="leo.20190106215918.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215918.2">### 下平台
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E4%B8%8B%E5%B9%B3%E5%8F%B0.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
+
+</t>
+<t tx="leo.20190106215919.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215919.2">### 上平台
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B9%B3%E5%8F%B0.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
+</t>
+<t tx="leo.20190106215919.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215919.4">### 平台滑塊
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B9%B3%E5%8F%B0%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360" high="360"&gt;
+
+</t>
+<t tx="leo.20190106215919.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215919.6">### 支架
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E6%94%AF%E6%9E%B6.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
+
+</t>
+<t tx="leo.20190106215919.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215919.8">### 各軸固定桿
+
+
+
+&lt;img src="https://i.imgur.com/dNhC1VM.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106215920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106215920.2">### 下固定板
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E4%B8%8B%E6%AA%94%E6%9D%BF.PNG
+" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220025.2">### 左側滑塊
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%81%B4%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220026.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220026.2">### 右側滑塊
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%8F%B3%E5%81%B4%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220026.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220026.4">### 前擋板
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%89%8D%E6%93%8B%E6%9D%BF.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220026.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220026.6">### 墊圈
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%A2%8A%E5%9C%88.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220026.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220026.8">### 導螺桿塊
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%8E%E8%9E%BA%E6%A1%BF%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220200.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220200.2">### 射出頭
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220200.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220200.4">### 射出頭滑塊
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220200.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220200.6">### 導螺桿
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E8%9E%BA%E6%A1%BF.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220201.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220201.2">### 螺絲
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E8%9E%BA%E7%B5%B2.png" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220237.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220237.2">### 馬達
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220237.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220237.4">### 馬達固定塊
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94%E5%9B%BA%E5%AE%9A%E5%A1%8A.PNG
+" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
+<t tx="leo.20190106220238.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106220238.2">### 馬達軸
+
+
+
+&lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E9%A6%AC%E9%81%94%E8%BB%B8.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;</t>
 </tnodes>
 </leo_file>
