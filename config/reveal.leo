@@ -24,13 +24,13 @@
 <v t="leo.20180827201621.9"><vh>bg5封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>bg5封面投影片內容</vh></v>
 </v>
-<v t="leo.20190106174800.1" a="E"><vh>前言</vh>
+<v t="leo.20190106174800.1"><vh>前言</vh>
 <v t="leo.20190106174800.2"><vh>前言內容</vh></v>
 </v>
 <v t="leo.20190106184418.1"><vh>摘要</vh>
 <v t="leo.20190106184418.2"><vh>摘要內容</vh></v>
 </v>
-<v t="leo.20190106215623.1" a="E"><vh>各零件的設計</vh>
+<v t="leo.20190106215623.1"><vh>各零件的設計</vh>
 <v t="leo.20190106215623.2" a="E"><vh>設計</vh>
 <v t="leo.20190106215623.3"><vh>first</vh></v>
 </v>
@@ -92,61 +92,52 @@
 <v t="leo.20190106220238.2"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190105131339.1"><vh>組員分工</vh>
+<v t="leo.20190105131339.1" a="E"><vh>組員分工</vh>
 <v t="leo.20190105131407.1" a="E"><vh>組員分工(首)</vh>
 <v t="leo.20190105131407.2"><vh>分工內容</vh></v>
 </v>
-<v t="leo.20190105131405.1"><vh>組員分工</vh>
+<v t="leo.20190105131405.1" a="E"><vh>組員分工</vh>
 <v t="leo.20190105131405.2"><vh>分工內容</vh></v>
 </v>
 </v>
 <v t="leo.20181203101543.1"><vh>w10 11/12</vh>
-<v t="leo.20181203101543.2"><vh>w10 發生的事</vh>
+<v t="leo.20181203101543.2" a="E"><vh>w10 發生的事</vh>
 <v t="leo.20181203101543.3"><vh>first</vh></v>
 </v>
 <v t="leo.20181203101543.4"><vh>w10 作業的成果</vh>
 <v t="leo.20181203101543.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181203101543.6"><vh>w10-3</vh>
-<v t="leo.20181203101543.7"><vh>2</vh></v>
-</v>
 </v>
 <v t="leo.20181203102656.1"><vh>w11 11/19</vh>
-<v t="leo.20181203102656.2"><vh>w11 發生的事-1</vh>
+<v t="leo.20181203102656.2" a="E"><vh>w11 發生的事-1</vh>
 <v t="leo.20181203102656.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181210103620.1"><vh>w11 發生的事-2</vh>
+<v t="leo.20181210103620.1" a="E"><vh>w11 發生的事-2</vh>
 <v t="leo.20181210103620.2"><vh>first</vh></v>
 </v>
-<v t="leo.20181203102656.4"><vh>w11 作業的成果-1</vh>
+<v t="leo.20181203102656.4" a="E"><vh>w11 作業的成果-1</vh>
 <v t="leo.20181203102656.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181217120053.1"><vh>w11 作業的成果-2</vh>
-<v t="leo.20181217120053.2"><vh>1</vh></v>
-</v>
-<v t="leo.20181203102656.6"><vh>w11-3</vh>
+<v t="leo.20181203102656.6" a="E"><vh>w11-3</vh>
 <v t="leo.20181203102656.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20181203105101.1"><vh>w12 11/26</vh>
-<v t="leo.20181203105101.2"><vh>w12 發生的事</vh>
+<v t="leo.20181203105101.2" a="E"><vh>w12 發生的事</vh>
 <v t="leo.20181203105101.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181203105101.4"><vh>w12 作業的成果 1</vh>
+<v t="leo.20181203105101.4" a="E"><vh>w12 作業的成果 1</vh>
 <v t="leo.20181203105101.5"><vh>1</vh></v>
 </v>
 <v t="leo.20181224115804.1"><vh>w12 作業的成果</vh>
 <v t="leo.20181224115804.2"><vh>1</vh></v>
 </v>
-<v t="leo.20181203105101.6"><vh>w12-3</vh>
-<v t="leo.20181203105101.7"><vh>2</vh></v>
-</v>
 </v>
 <v t="leo.20181203105102.1"><vh>w13 12/03</vh>
-<v t="leo.20181203105102.2"><vh>w13 發生的事</vh>
+<v t="leo.20181203105102.2" a="E"><vh>w13 發生的事</vh>
 <v t="leo.20181203105102.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106174045.1"><vh>w13 作業的成果 2</vh>
+<v t="leo.20190106174045.1" a="E"><vh>w13 作業的成果 2</vh>
 <v t="leo.20190106174045.2"><vh>1</vh></v>
 </v>
 <v t="leo.20190106174054.1"><vh>w13 作業的成果 2-1</vh>
@@ -155,46 +146,40 @@
 <v t="leo.20190106174057.1"><vh>w13 作業的成果 3</vh>
 <v t="leo.20190106174057.2"><vh>1</vh></v>
 </v>
-<v t="leo.20181203105102.6"><vh>w13-3</vh>
-<v t="leo.20181203105102.7"><vh>2</vh></v>
 </v>
-</v>
-<v t="leo.20181210094359.1"><vh>w14 12/10</vh>
-<v t="leo.20181210094359.2"><vh>w14 發生的事</vh>
+<v t="leo.20181210094359.1" a="E"><vh>w14 12/10</vh>
+<v t="leo.20181210094359.2" a="E"><vh>w14 發生的事</vh>
 <v t="leo.20181210094359.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106192254.1"><vh>w14 發生的事-1</vh>
+<v t="leo.20190106192254.1" a="E"><vh>w14 發生的事-1</vh>
 <v t="leo.20190106192254.2"><vh>first</vh></v>
 </v>
-<v t="leo.20181210094359.4"><vh>w14 作業的成果</vh>
+<v t="leo.20181210094359.4" a="E"><vh>w14 作業的成果</vh>
 <v t="leo.20181210094359.5"><vh>1</vh></v>
 </v>
-<v t="leo.20181210094359.6"><vh>w14-3</vh>
+<v t="leo.20181210094359.6" a="E"><vh>w14-3</vh>
 <v t="leo.20181210094359.7"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20181217113813.1"><vh>w15 12//17</vh>
+<v t="leo.20181217113813.1" a="E"><vh>w15 12//17</vh>
 <v t="leo.20190106193107.1" a="E"><vh>w15 發生的事</vh>
 <v t="leo.20190106193107.2"><vh>first</vh></v>
 </v>
-<v t="leo.20190106193113.1"><vh>w15 發生的事-1</vh>
+<v t="leo.20190106193113.1" a="E"><vh>w15 發生的事-1</vh>
 <v t="leo.20190106193113.2"><vh>first</vh></v>
 </v>
 <v t="leo.20190106194941.1" a="E"><vh>w15 作業的成果</vh>
 <v t="leo.20190106194941.2"><vh>1</vh></v>
 </v>
-<v t="leo.20190104145451.1"><vh>w15 作業的成果-pdf</vh>
+<v t="leo.20190104145451.1" a="E"><vh>w15 作業的成果-pdf</vh>
 <v t="leo.20190104145451.2"><vh>1</vh></v>
-</v>
-<v t="leo.20181217113813.6"><vh>w15-3</vh>
-<v t="leo.20181217113813.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20181224114546.1"><vh>w16 12//24</vh>
-<v t="leo.20181224114546.2"><vh>w16 發生的事</vh>
+<v t="leo.20181224114546.2" a="E"><vh>w16 發生的事</vh>
 <v t="leo.20181224114546.3"><vh>first</vh></v>
 </v>
-<v t="leo.20181224114546.4"><vh>w16 作業的成果</vh>
+<v t="leo.20181224114546.4" a="E"><vh>w16 作業的成果</vh>
 <v t="leo.20181224114546.5"><vh>1</vh></v>
 </v>
 <v t="leo.20190106201405.1" a="E"><vh>w16 作業的成果-骨架</vh>
@@ -212,15 +197,12 @@
 <v t="leo.20190104161902.1"><vh>w16 作業的成果-pdf-2</vh>
 <v t="leo.20190104161902.2"><vh>1</vh></v>
 </v>
-<v t="leo.20181224114546.6"><vh>w16-3</vh>
-<v t="leo.20181224114546.7"><vh>2</vh></v>
 </v>
-</v>
-<v t="leo.20190102215710.1"><vh>w17 12//31</vh>
-<v t="leo.20190102215710.2"><vh>w17 發生的事</vh>
+<v t="leo.20190102215710.1" a="E"><vh>w17 12//31</vh>
+<v t="leo.20190102215710.2" a="E"><vh>w17 發生的事</vh>
 <v t="leo.20190102215710.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190102215710.4"><vh>w17 作業的成果</vh>
+<v t="leo.20190102215710.4" a="E"><vh>w17 作業的成果</vh>
 <v t="leo.20190102215710.5"><vh>1</vh></v>
 </v>
 <v t="leo.20190106212007.1"><vh>w17 作業的成果-組合圖</vh>
@@ -228,9 +210,6 @@
 </v>
 <v t="leo.20190104145429.1"><vh>w17 作業的成果-pdf</vh>
 <v t="leo.20190104145429.2"><vh>1</vh></v>
-</v>
-<v t="leo.20190102215710.6"><vh>w17-3</vh>
-<v t="leo.20190102215710.7"><vh>2</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -540,8 +519,8 @@ make.start()
 </t>
 <t tx="leo.20181203101543.3"># w10
 11/12
-S
-* 這周因為剛期中考完，除了分組和[期中自評成績](./../content/Introduction.html)外發生什麼特別的事
+* 分組和[期中自評成績](./../content/Introduction.html)
+* 管理網站的基本架設以及維護
 
 
 </t>
@@ -558,28 +537,10 @@ S
 </t>
 <t tx="leo.20181203101543.5">## w10 work
 
-修改分組網站的名稱，就這樣
+修改分組網站的名稱
 
 
 &lt;img src="https://i.imgur.com/miE1h6D.jpg" class="w3-round" alt="Norway"&gt;
-</t>
-<t tx="leo.20181203101543.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181203101543.7">## supplement
-
-* 這禮拜校慶
-
-* 參加的人感覺很少、運動項目報名情形也不太熱絡
-
-* 路跑給的衣服竟然是紫的!有點....
-
 </t>
 <t tx="leo.20181203102030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -618,9 +579,9 @@ S
 </t>
 <t tx="leo.20181203102656.3"># w11
 
-11/19S
+11/19
 
-* 說明一些題目的範例以及有關把onshape的零件丟到V-rep 進行動態模擬之類的操作
+* 說明一些題目的範例以及把onshape的零件丟到V-rep 進行動態模擬之操作
 
 &lt;p&gt;
 參考
@@ -643,7 +604,7 @@ S
 
 * 專案之主題經討論後，確認為3D列印機，並開始進行工作分配
 
-* 分工情形還尚未明確，組員先各自逕行網站之更新，因同時推送使得上傳更新不同步，有組員的隨身系統檔案無法推送，並且網站出現不少bug
+* 組員先各自進行網站內之更新，因同時推送使得上傳更新不同步，有的組員隨身系統檔案無法推送，使網站出現不少bug
 
 </t>
 <t tx="leo.20181203102656.6">&lt;section data-markdown&gt;
@@ -655,10 +616,10 @@ S
 
 						
 </t>
-<t tx="leo.20181203102656.7">## supplement
-* 選舉要到了，造勢發出的噪音越來越大聲
+<t tx="leo.20181203102656.7">## w11 work
+* 由一位組員去修改bug，並且將所有bug修復完畢
 
-* 路上都是競選的布條，十公尺內就有3~5個，有夠誇張
+* 同時與其於組員討論後將分段時間推送
 
 </t>
 <t tx="leo.20181203105101.1">&lt;section&gt;
@@ -681,7 +642,12 @@ S
 
 11/26
 
-* 上課時似乎沒發生什麼特別的事，基本上就是各組自行作業
+* 經由討論後蔡博淮為網站維護以及PDF之製作
+* 任明彥為網站維護以及投影片製作
+* 鐘偉哲為設計3D列印機重要零件以及vrep之模擬和修改bug
+* 周駿麟為設計3D列印機結構以及vrep之模擬
+* 卓昆鋒、楊傅博為onshape手冊的功能介紹
+
 
 </t>
 <t tx="leo.20181203105101.4">&lt;section data-markdown&gt;
@@ -696,24 +662,10 @@ S
 						
 </t>
 <t tx="leo.20181203105101.5">## w12 work
-* 在網站上和倉儲新增連結，並在網站的簡介加入組員名單及其倉儲連結及自評成績
+* 在網站與倉儲內新增連結，並在網站的簡介加入組員名單、倉儲連結、自評成績
 
-* 在協同上還是會有一些問題，但是跟上周比起來進步許多
+* 在協同上還是有一些問題，由組員去找出原因並解決它
 
-</t>
-<t tx="leo.20181203105101.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181203105101.7">## supplement
-* 選舉結束了，討人厭的噪音也沒了
-
-* 貨出得去，人進得來，高雄發大財
 </t>
 <t tx="leo.20181203105102.1">&lt;section&gt;
 @others
@@ -735,21 +687,9 @@ S
 
 12/03
 
-* 各組達成共識，把網站的格式統一以方便確認資料位置
+* 經由各組討論後，把網站的格式統一以方便確認資料位置
 
-* 將網站大部分文字修改成英文
-</t>
-<t tx="leo.20181203105102.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181203105102.7">## supplement
-* 沒有發生什麼特別的事
+* 將網站內容修改成英文版本
 </t>
 <t tx="leo.20181210094359.1">&lt;section&gt;
 @others
@@ -769,11 +709,11 @@ S
 </t>
 <t tx="leo.20181210094359.3"># w14 
 
-* 12/10
+12/10
 
-* 這禮拜在介紹有關PDF的製作，用miktex編寫並設定一些路徑的參數
+* 介紹有關PDF的製作，用miktex編寫並設定一些路徑的參數
 
-* 剩下的時間由各組自行利用
+* 剩餘的時間由各組自行利用
 </t>
 <t tx="leo.20181210094359.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -789,9 +729,9 @@ S
 <t tx="leo.20181210094359.5">## w14 work
 * 新增onshape草圖繪製功能的動態圖像
 
-* 處理網站上的bug，其問題跟上周相似
+* 處理網站上的bug
 
-* 開始撰寫網際簡報的內容，增加前幾周的作業進度
+* 開始撰寫網際簡報的內容，增加前幾週的作業進度
 </t>
 <t tx="leo.20181210094359.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -803,7 +743,7 @@ S
 						
 </t>
 <t tx="leo.20181210094359.7">## supplement
-* 本周開始補課，於每禮拜(四)的19:00-19:50
+* 於本週開始補課，每禮拜(四)的19:00-19:50
 </t>
 <t tx="leo.20181210103620.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -823,36 +763,6 @@ S
 <t tx="leo.20181217113813.1">&lt;section&gt;
 @others
 &lt;/section&gt;
-
-</t>
-<t tx="leo.20181217113813.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181217113813.7">## supplement
-本周(六)補1/1日元旦的課
-</t>
-<t tx="leo.20181217120053.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181217120053.2">## w11 work
-
-* 組員A修改了不適合的網誌背景，畫面太過雜亂被要求改回來
-
-* 請不要在共同的網站上把背景貼上一些幼女圖，網路警察是有在工作的
 
 </t>
 <t tx="leo.20181224114546.1">&lt;section&gt;
@@ -875,9 +785,9 @@ S
 
 12/24
 
-* 本周離期末的報告還剩兩個禮拜，目前的專題以逐漸成形
+* 3D列印機之整體架構已繪製完成
 
-* 課堂上還是給各組繼續專題的作業
+
 
 </t>
 <t tx="leo.20181224114546.4">&lt;section data-markdown&gt;
@@ -895,20 +805,6 @@ S
 * onshape上的零件圖繪製已開始成形，其部分組合圖已完成
 
 * v-rep的模擬情形碰到了一些問題，零件似乎無法如預期的做動
-
-</t>
-<t tx="leo.20181224114546.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181224114546.7">## supplement
-* 12/25聖誕節
-
 
 </t>
 <t tx="leo.20181224115804.1">&lt;section data-markdown&gt;
@@ -946,10 +842,9 @@ S
 
 12/31
 
-* 本周因彈性放假而未上課
+* 下週需上台進行專題報告，其內容的詳細格式如右[期末考週任務規劃](https://github.com/mdecourse/cadp2018/issues/18)
 
-* 下周需上台進行專題報告，其內容的詳細格式如右[期末考週任務規劃](https://github.com/mdecourse/cadp2018/issues/18)
-* 專題的製作及onshape的PDF說明手冊須在本周完成
+* 專題的製作及onshape的PDF說明手冊須在本週完成
 
 </t>
 <t tx="leo.20190102215710.4">&lt;section data-markdown&gt;
@@ -966,24 +861,11 @@ S
 <t tx="leo.20190102215710.5">## w17 work
 * 各項報告內容已接近完成，網際簡報的編寫進入最後的修改
 
-* v-rep模擬所出現的問題無法解決，網路上多是以鋼球運動的教學，故沒辦法有模擬其運動方式
+* v-rep模擬所出現的問題無法解決，網路上多是以鋼球運動的教學，故模擬其運動方式無法做動
 
-* 最後的零件組合圖已完成
-
-
-
-</t>
-<t tx="leo.20190102215710.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+* onshape組合圖與工程圖之介紹
 
 
-						
-</t>
-<t tx="leo.20190102215710.7">## supplement
-* 元旦放假
 </t>
 <t tx="leo.20190104145429.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1014,7 +896,7 @@ S
 						
 </t>
 <t tx="leo.20190104145451.2">## w15 work-pdf
-* 本周開始製作PDF
+* 本週開始製作PDF
 
 * 目前有[MikTeX](https://miktex.org/)跟[MS Word](https://bit.ly/2KzIMGF)兩個選擇，前者較後者複雜但相對完整，後者較簡單但功能較少
 
@@ -1069,15 +951,15 @@ S
 </t>
 <t tx="leo.20190105131405.2">* drawing
 
- * 鐘偉哲  40623224:v-rep的模擬
+ * 鐘偉哲  40623224:機件的繪製、v-rep的模擬、修改BUG、修改投影片
 
- * 周駿麟  40623231:機件的繪製
+ * 周駿麟  40623231:機件的繪製、v-rep的模擬
 
 * Onshape
 
- * 卓昆鋒  40623225:onshape手冊的功能介紹及重點歸納，
+ * 卓昆鋒  40623225:onshape手冊的功能介紹及重點歸納
 
- * 楊傅博  40623217:onshape手冊的功能介紹及重點歸納，以繪製功能及草圖約束為主
+ * 楊傅博  40623217:onshape手冊的功能介紹及重點歸納、繪製功能及草圖約束
 
 </t>
 <t tx="leo.20190105131407.1">&lt;section data-markdown&gt;
@@ -1113,9 +995,9 @@ S
 						
 </t>
 <t tx="leo.20190106174045.2">## w13 work
-* 在修改格式時發生了因各組員近端與遠端衝突，所以將所有人的近端刪除，其中一組員將碗端內容重新下載並debug後其餘組員再clone下來
+* 在修改格式時各組員近端與遠端發生衝突，將所有人的近端刪除，其中由一位組員將遠端的內容重新下載並修改bug，其餘組員再clone下來
 
-* 部分的分工內容再作調整，修改成如投影片第述的組員分工
+* 部分的分工內容再作調整
 </t>
 <t tx="leo.20190106174054.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1161,11 +1043,7 @@ S
 <t tx="leo.20190106174800.2">## 前言
 ### 3D printer
 
-* 目前各項的產業上越來越多的已3D列印機進行客製化的產品，原因不外乎是因為再設計上有極高的自由性，以使材料堆疊的方式製造一般加工機做不到的形狀，這種技術的
-
-本次的專題報告主要是以線性的3D列印機做其機構，用v-rep模擬分析、機件的設計及介紹其功能
-
-</t>
+* 本次的專題報告主要是以線性的3D列印機做其機構，用v-rep模擬分析、機件的設計及介紹其功能</t>
 <t tx="leo.20190106184418.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1183,7 +1061,7 @@ S
 
 * [Final report](https://mdecadp2018.github.io/finalproject-bg5/downloads/github_bg5.pdf)的製作
 
-* 各周的上課情形及工作進度
+* 各週的上課情形及工作進度
 
 </t>
 <t tx="leo.20190106192254.1">&lt;section data-markdown&gt;
@@ -1197,7 +1075,7 @@ S
 
 						
 </t>
-<t tx="leo.20190106192254.2">教學的影片
+<t tx="leo.20190106192254.2">教學影片
 
 &lt;iframe width="624" height="480" src="https://www.youtube.com/embed/2833erZxUAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -1221,7 +1099,7 @@ S
 
 * 介紹使用v-rep設定零件並模擬其運動的路徑，以分析機件做動模式
 
-* 剩下的時間由各組自行利用
+* 剩餘的時間由各組自行利用
 </t>
 <t tx="leo.20190106193113.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1234,7 +1112,7 @@ S
 
 						
 </t>
-<t tx="leo.20190106193113.2">教學的影片
+<t tx="leo.20190106193113.2">教學影片
 
 &lt;iframe width="624" height="480" src="https://www.youtube.com/embed/DoiiDLpwBcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -1253,9 +1131,9 @@ S
 						
 </t>
 <t tx="leo.20190106194941.2">## w15 work
-* 新增onshape草圖約束功能的動態圖像
+* 新增onshape草圖特徵功能的動態圖像
 
-* 更新網際簡報至本周
+* 更新網際簡報至本週
 
 * 於網站上新增教學影片
 
@@ -1587,7 +1465,7 @@ S
 </t>
 <t tx="leo.20190106220200.4">### 射出頭滑塊
 
-塑料將在這裏面融化並射出在平台上
+連接射出頭和滑桿使其做X軸運動
 
 &lt;img src="https://mdecadp2018.github.io/finalproject-bg5/images/%E5%B0%84%E5%87%BA%E9%A0%AD%E6%BB%91%E5%A1%8A.PNG" class="w3-round" alt="Norway" width="360 " high="360"&gt;
 
